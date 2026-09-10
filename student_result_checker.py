@@ -18,3 +18,5 @@ else:
         print("result : good")
     elif(average>=30):
         print("result : pass")
+    else:
+        print("result : fail")
