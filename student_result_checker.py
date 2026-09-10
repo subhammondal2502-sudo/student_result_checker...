@@ -7,3 +7,5 @@ total_marks = (math_marks+physics_marks+computer_marks)
 print("total marks :" , total_marks)
 average=(total_marks)/3
 print("average marks :" , average)
+if math_marks<30 or physics_marks<30 or computer_marks<30 :
+    print("result : fail")  
