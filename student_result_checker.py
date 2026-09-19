@@ -4,7 +4,7 @@ bengali=int(input("enter marks in bengali :"))
 english=int(input("enter marks in english :"))
 mathematics=int(input("enter marks in mathematics :"))
 science=int(input("enter marks in physics :"))
-computer_marks=int(input("marks in computer science :"))
+computer=int(input("enter marks in computer :"))
 total_marks = (math_marks+physics_marks+computer_marks)
 print("total marks :" , total_marks)
 average=(total_marks)/3
