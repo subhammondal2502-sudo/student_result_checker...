@@ -9,7 +9,6 @@ total_marks = (bengali + english + mathematics + science + computer)
 average=float(total_marks / 5)
 if bengali<0 or bengali>100 or english<0 or english>100 or mathematics<0 or mathematics>100 or science<0 or science>100 or computer<0 or computer>100 :
     print("invalid marks")
-print("average marks :" , average)
 if math_marks<30 or physics_marks<30 or computer_marks<30 :
     print("result : fail")  
 else:         
