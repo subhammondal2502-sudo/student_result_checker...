@@ -7,7 +7,7 @@ science=int(input("enter marks in physics :"))
 computer=int(input("enter marks in computer :"))
 total_marks = (bengali + english + mathematics + science + computer)
 print("total marks :" , total_marks)
-average=(total_marks)/3
+average=float(total_marks / 5)
 print("average marks :" , average)
 if math_marks<30 or physics_marks<30 or computer_marks<30 :
     print("result : fail")  
