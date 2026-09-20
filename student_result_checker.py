@@ -11,7 +11,7 @@ if bengali<0 or bengali>100 or english<0 or english>100 or mathematics<0 or math
     print("invalid marks")
 else:
     if(bengali<33 or english<33 or mathematics<33 or science<33 or computer<33):
-    print("result : fail")  
+        print("result : fail")  
 else:         
     if(average>=60):
         print("result : excellent")
