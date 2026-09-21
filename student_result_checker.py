@@ -23,6 +23,7 @@ else:
         
     elif(average>=80):
         print("result : very good")
+        
     elif(average>=40):
         print("result : good")
     elif(average>=30):
