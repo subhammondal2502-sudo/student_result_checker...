@@ -20,7 +20,8 @@ else:
 
     if(average>=90):
         print("grade : A+")
-    elif(average>=50):
+        
+    elif(average>=80):
         print("result : very good")
     elif(average>=40):
         print("result : good")
