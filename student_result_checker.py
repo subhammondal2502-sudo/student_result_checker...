@@ -18,7 +18,7 @@ else:
 
          print("average marks :" , average) 
 
-    if(average>=60):
+    if(average>=90):
         print("result : excellent")
     elif(average>=50):
         print("result : very good")
