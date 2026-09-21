@@ -25,7 +25,7 @@ else:
         print("result : very good")
         
     elif(average>=70):
-        print("result : good")
+        print("grade : B+")
     elif(average>=30):
         print("result : pass")
     else:
