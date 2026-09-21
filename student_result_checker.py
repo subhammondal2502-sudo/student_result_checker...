@@ -24,7 +24,7 @@ else:
     elif(average>=80):
         print("result : very good")
         
-    elif(average>=40):
+    elif(average>=70):
         print("result : good")
     elif(average>=30):
         print("result : pass")
