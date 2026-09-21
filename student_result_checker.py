@@ -16,6 +16,8 @@ else:
          print("result : pass") 
          print("total marks :" , total_marks)
 
+         print("average marks :" , average) 
+
     if(average>=60):
         print("result : excellent")
     elif(average>=50):
