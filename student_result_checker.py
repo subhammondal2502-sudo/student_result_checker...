@@ -29,5 +29,7 @@ else:
         
     elif(average>=60):
         print("grade : B")
+    elif (average>=50):
+        print("grade : C")
     else:
         print("result : fail")
