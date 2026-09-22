@@ -13,10 +13,9 @@ else:
     if(bengali<33 or english<33 or mathematics<33 or science<33 or computer<33):
         print("result : fail")  
     else:
-         print("result : pass") 
-         print("total marks :" , total_marks)
-         print("average marks :" , average) 
-
+        print("result : pass") 
+        print("total marks :" , total_marks)
+        print("average marks :" , average) 
         if(average>=90):
             print("grade : A+")
         
