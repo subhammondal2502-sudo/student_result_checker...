@@ -15,7 +15,6 @@ else:
     else:
          print("result : pass") 
          print("total marks :" , total_marks)
-
          print("average marks :" , average) 
 
     if(average>=90):
