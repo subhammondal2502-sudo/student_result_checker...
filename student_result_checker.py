@@ -26,8 +26,8 @@ else:
         elif(average>=70):
             print("grade : B+")
         
-    elif(average>=60):
-        print("grade : B")
+        elif(average>=60):
+            print("grade : B")
     elif(average>=50):
         print("grade : C")
     elif(average>=33):
