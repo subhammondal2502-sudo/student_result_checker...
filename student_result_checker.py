@@ -17,8 +17,8 @@ else:
          print("total marks :" , total_marks)
          print("average marks :" , average) 
 
-    if(average>=90):
-        print("grade : A+")
+        if(average>=90):
+            print("grade : A+")
         
     elif(average>=80):
         print("grade : A")
